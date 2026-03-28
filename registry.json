@@ -1,0 +1,124 @@
+{
+  "skills": [
+    {
+      "id": "daily-news",
+      "name": "Daily News Briefing",
+      "description": "Sends top 5 headlines to your channel every morning at 8am. Stays on top of what matters without opening a browser.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "news",
+      "tags": ["news", "daily", "briefing", "morning"],
+      "downloads": 142,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/daily-news.js"
+    },
+    {
+      "id": "weather-brief",
+      "name": "Weather Brief",
+      "description": "Daily weather update for your city before you start work. Knows your location and delivers a clean one-line summary.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "productivity",
+      "tags": ["weather", "daily", "utility"],
+      "downloads": 98,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weather-brief.js"
+    },
+    {
+      "id": "crypto-alert",
+      "name": "Crypto Price Alert",
+      "description": "Monitor Bitcoin, ETH, or any token. Get alerted when price crosses your threshold. No more staring at charts.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "finance",
+      "tags": ["crypto", "bitcoin", "alert", "price"],
+      "downloads": 201,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/crypto-alert.js"
+    },
+    {
+      "id": "github-digest",
+      "name": "GitHub Activity Digest",
+      "description": "Daily summary of your repos — open PRs, new issues, recent commits. Perfect for staying on top of your projects.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "developer",
+      "tags": ["github", "developer", "digest", "prs"],
+      "downloads": 87,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/github-digest.js"
+    },
+    {
+      "id": "weekly-summary",
+      "name": "Weekly Summary",
+      "description": "Every Friday, get a structured summary of your week — tasks completed, conversations had, key decisions made.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "productivity",
+      "tags": ["weekly", "summary", "review", "productivity"],
+      "downloads": 134,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weekly-summary.js"
+    },
+    {
+      "id": "reminder-system",
+      "name": "Smart Reminders",
+      "description": "Set reminders via chat. Just say 'remind me to call client at 3pm' and it handles the rest. No apps needed.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "productivity",
+      "tags": ["reminders", "productivity", "scheduling"],
+      "downloads": 176,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/reminder-system.js"
+    },
+    {
+      "id": "price-alert",
+      "name": "Price Drop Alert",
+      "description": "Monitor any product URL for price drops. Paste a link, set your target price, get notified when it drops.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "finance",
+      "tags": ["shopping", "price", "alert", "ecommerce"],
+      "downloads": 63,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/price-alert.js"
+    },
+    {
+      "id": "meeting-summary",
+      "name": "Meeting Summary",
+      "description": "Paste any meeting transcript and get a clean structured summary — decisions made, action items, key points.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "productivity",
+      "tags": ["meetings", "summary", "notes", "productivity"],
+      "downloads": 119,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/meeting-summary.js"
+    },
+    {
+      "id": "social-scheduler",
+      "name": "Social Post Scheduler",
+      "description": "Draft and schedule posts for Telegram and Discord channels. Queue up content in advance and post on time.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "social",
+      "tags": ["social", "scheduling", "telegram", "discord"],
+      "downloads": 45,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/social-scheduler.js"
+    },
+    {
+      "id": "email-monitor",
+      "name": "Email Monitor",
+      "description": "Watch your Gmail for emails matching keywords or senders. Get instant alerts on your connected channel.",
+      "version": "1.0.0",
+      "author": "Kova Official",
+      "category": "productivity",
+      "tags": ["email", "gmail", "monitor", "alerts"],
+      "downloads": 92,
+      "free": true,
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/email-monitor.js"
+    }
+  ]
+}
