@@ -14,7 +14,7 @@
       ],
       "downloads": 142,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/daily-news/daily-news.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/daily-news/SKILL.md"
     },
     {
       "id": "weather-brief",
@@ -30,7 +30,7 @@
       ],
       "downloads": 98,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weather-brief/weather-brief.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weather-brief/SKILL.md"
     },
     {
       "id": "crypto-alert",
@@ -47,7 +47,7 @@
       ],
       "downloads": 201,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/crypto-alert/crypto-alert.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/crypto-alert/SKILL.md"
     },
     {
       "id": "github-digest",
@@ -63,7 +63,7 @@
       ],
       "downloads": 87,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/github-digest/github-digest.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/github-digest/SKILL.md"
     },
     {
       "id": "weekly-summary",
@@ -79,7 +79,7 @@
       ],
       "downloads": 134,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weekly-summary/weekly-summary.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/weekly-summary/SKILL.md"
     },
     {
       "id": "reminder-system",
@@ -95,7 +95,7 @@
       ],
       "downloads": 176,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/reminder-system/reminder-system.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/reminder-system/SKILL.md"
     },
     {
       "id": "meeting-summary",
@@ -111,7 +111,7 @@
       ],
       "downloads": 119,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/meeting-summary/meeting-summary.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/meeting-summary/SKILL.md"
     },
     {
       "id": "price-alert",
@@ -127,7 +127,7 @@
       ],
       "downloads": 63,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/price-alert/price-alert.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/price-alert/SKILL.md"
     },
     {
       "id": "social-scheduler",
@@ -144,7 +144,7 @@
       ],
       "downloads": 45,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/social-scheduler/social-scheduler.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/social-scheduler/SKILL.md"
     },
     {
       "id": "email-monitor",
@@ -161,7 +161,7 @@
       ],
       "downloads": 92,
       "free": true,
-      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/email-monitor/email-monitor.js"
+      "url": "https://raw.githubusercontent.com/chiragborse1/kova-skills/main/skills/email-monitor/SKILL.md"
     }
   ]
 }
